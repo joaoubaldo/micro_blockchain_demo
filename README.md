@@ -8,5 +8,19 @@ python setup.py install
 micro_blockchain_demo
 ```
 
+## Usage
+Once inside the interactive command line, type `?` or `help`.
+
+### Example:
+```
+> populate 100
+> print
+> check
+> tamper
+> check
+> quit
+```
+
+
 ## Running tests
 `python -m unittest -v tests`
