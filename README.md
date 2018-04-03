@@ -14,7 +14,7 @@ Once inside the interactive command line, type `?` or `help` to see all availabl
 
 ### Example:
 
-- 1) Append 100 random blocks to the chain 2) print them all  3) run integrity check 4) tamper a random block 5) rerun the integrity check:
+- a) Append 100 random blocks to the chain b) print them all c) run integrity check d) tamper a random block e) rerun the integrity check:
 ```
 > populate 100
 > print
