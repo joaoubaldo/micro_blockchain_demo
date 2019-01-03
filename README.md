@@ -9,6 +9,11 @@ demo_env/bin/pip install git+https://github.com/joaoubaldo/micro_blockchain_demo
 demo_env/bin/micro_blockchain_demo
 ```
 
+## Quick run with docker
+```
+docker run -ti python:2.7 bash -c 'apt-get update && apt-get install git && pip install git+https://github.com/joaoubaldo/micro_blockchain_demo.git && micro_blockchain_demo'
+```
+
 ## Usage
 Once inside the interactive command line, type `?` or `help` to see all available options.
 
